@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Employee_Milestone2.Employee_Milestone2_Artifact.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.619 s - in Employee_Milestone2.Employee_Milestone2_Artifact.AppTest
